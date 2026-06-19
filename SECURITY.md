@@ -17,5 +17,5 @@ Use `.env.example` as a safe template.
 ## Login credentials
 
 The app uses a single username/password set in `.env` (`LOGIN_USERNAME` / `LOGIN_PASSWORD`).
-Change these before deploying. The password is compared in plain text — suitable only
+Change these before deploying. The password is compared in plain text - suitable only
 for a personal/demo app; do not use this pattern for a production system.
